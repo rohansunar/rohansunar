@@ -1,4 +1,4 @@
-## Hi there, I'm Rohan Sonar! 👋
+## Hi there, I'm Rohan Sunar! 👋
 
 🚀 Experienced Software Technical Lead | Backend Developer | API Expert
 
