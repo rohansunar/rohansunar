@@ -9,7 +9,7 @@
 #### 👯 I’m looking to collaborate on fintech, trading, and automation projects.
 #### 🤔 I’m looking for help with optimizing high-performance backend architectures.
 #### 💬 Ask me about backend development, API integrations, cloud infrastructure, and software architecture.
-#### 📫 How to reach me: LinkedIn | GitHub | Email: rohansunar89@gmail.com
+#### 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/rohan-sonar89/) | GitHub | Email: rohansunar89@gmail.com
 #### ⚡ Fun fact: I love solving real-world problems with technology and optimizing trading strategies using AI!
 
 
