@@ -1,16 +1,26 @@
-## Hi there 👋
+## Hi there, I'm Rohan Sonar! 👋
 
-<!--
-**rohansunar/rohansunar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Experienced Software Technical Lead | Backend Developer | API Expert
 
-Here are some ideas to get you started:
+🌟 About Me
+🔭 I’m currently working on scalable backend solutions using Node.js, TypeScript, and MongoDB.
+🌱 I’m currently learning Generative AI, WebRTC, and advanced trading algorithms.
+👯 I’m looking to collaborate on fintech, trading, and automation projects.
+🤔 I’m looking for help with optimizing high-performance backend architectures.
+💬 Ask me about backend development, API integrations, cloud infrastructure, and software architecture.
+📫 How to reach me: LinkedIn | GitHub | Email: rohansunar89@gmail.com
+⚡ Fun fact: I love solving real-world problems with technology and optimizing trading strategies using AI!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+🚀 Tech Stack & Tools
+Backend & Cloud:
+
+DevOps & Tools:
+
+
+📊 GitHub Stats
+
+🚀 Featured Projects
+🔹 Homestay Booking System – A scalable homestay management system with admin verification, bookings, and availability tracking.
+🔹 AI-Powered Trading Assistant – A trading strategy tool with AI-based risk management and psychology tracking.
+🔹 WebRTC Video Call App – A real-time communication platform using WebRTC and Node.js.
