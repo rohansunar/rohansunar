@@ -13,12 +13,8 @@
 
 
 🚀 Tech Stack & Tools
-Backend & Cloud:
-
-DevOps & Tools:
-
-
-📊 GitHub Stats
+Backend & Cloud: NODEJS, MONGODB
+DevOps & Tools: AWS, EC2, S3 Bucket
 
 🚀 Featured Projects
 🔹 Homestay Booking System – A scalable homestay management system with admin verification, bookings, and availability tracking.
